@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-aiofiles
-
-git+https://github.com/mikeckennedy/fastapi-chameleon
-
-starlette

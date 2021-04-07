@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+chameleon
+git+https://github.com/mikeckennedy/fastapi-chameleon
