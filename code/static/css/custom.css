@@ -1,5 +1,5 @@
 body {
-    background: rgb(11, 8, 150)
+    background:#006dad
 }
 
 div {
@@ -13,3 +13,5 @@ footer {
 h1 {
     color: white
 }
+
+div.statusBar {background-color: #dfe0da; color: rgb(0,61,96); font-size: 19.2pt;}

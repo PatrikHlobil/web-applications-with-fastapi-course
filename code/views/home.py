@@ -11,5 +11,6 @@ def index():
 
 
 @router.get("/about")
+@template()
 def about():
     return {}

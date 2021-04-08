@@ -1,6 +1,9 @@
 <div metal:use-macro="load: ../shared/_layout.pt">
     <div metal:fill-slot="content" tal:omit-tag="True">
 
+        <h1 class="text-center">Find, install and publish Python packages</h1>
+        <h1 class="text-center">with the Python Package Index</h1>
+
         <div>User: ${user_name}</div>
         <div>
             <ul>
@@ -9,6 +12,8 @@
                 <li>chameleon</li>
             </ul>
         </div>
+
+        <div class="statusBar"> Test</div>
 
     </div>
 </div>
