@@ -1,17 +1,21 @@
 body {
-    background:#006dad
+    overflow-y: hidden;
+    margin: 0;
 }
 
-div {
-    color: white
+.blueDiv {
+    background: #006dad;
+    color: white;
 }
 
-footer {
-    color: white
+.statusBar {
+    background-color: #dfe0da;
+    color: rgb(0, 61, 96);
+    font-size: 15pt;
+    margin: 0;
+    padding: 50px;
 }
 
-h1 {
-    color: white
+.package-col {
+    width: 600px;
 }
-
-div.statusBar {background-color: #dfe0da; color: rgb(0,61,96); font-size: 19.2pt;}
